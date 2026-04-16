@@ -1,12 +1,12 @@
 # Air-Aware-smart-Air-Quality-prediction-system
 Air-Aware: Smart Air Quality Monitoring & Forecasting
 
-🚀 AI-driven system for monitoring, analyzing, and forecasting air quality using data preprocessing, exploratory data analysis (EDA), machine learning, and interactive dashboards.
+ AI-driven system for monitoring, analyzing, and forecasting air quality using data preprocessing, exploratory data analysis (EDA), machine learning, and interactive dashboards.
 This project helps policymakers, researchers, and citizens track pollution trends and take timely actions.
 
 ⸻
 
-📌 Features
+ Features
 
 Interactive Streamlit Dashboard for visualization
 Dataset Preprocessing & Cleaning (missing value handling, outlier treatment)
@@ -17,7 +17,7 @@ Modular design for easy extension
 
 ⸻
 
-🛠️ Tech Stack
+ Tech Stack
 	•	Python (Pandas, NumPy, Scikit-learn)
 	•	Streamlit (Dashboard & UI)
 	•	Matplotlib / Seaborn / Plotly (Visualization)
@@ -25,7 +25,7 @@ Modular design for easy extension
 
 ⸻
 
-📊 Dashboard Preview
+Dashboard Preview
 
 Live Demo (Milestone-1): Streamlit App
 Run this command
